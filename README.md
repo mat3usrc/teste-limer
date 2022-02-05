@@ -2,15 +2,11 @@
 
 ## Sobre
 
----
-
 O desafio consiste em implementar uma SPA em VueJS, que apresente os dados da Tabela FIPE usando a API Pública: https://deividfortuna.github.io/fipe/.
 
 O uso de frameworks e libs para estilização dos componentes é livre.
 
 ## Funcionalidades
-
----
 
 - Tela de listagem dos modelos
   - Filtro para escolha entre carros, motos ou caminhões.
